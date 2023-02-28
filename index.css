@@ -1,0 +1,39 @@
+div { 
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-tecnologia-digital-alambre-malla-red_1017-27428.jpg);
+    color: black;
+}
+
+h1 {
+    font-family: bold'Roboto', sans-serif;;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color:  rgb(247, 189, 104)
+ 
+}
+
+h2 {
+    font-family: bold'Roboto', sans-serif;;
+}
+
+h3 {
+    font-family: bold'Roboto', sans-serif;;
+    padding: 30px 15px 25px 20px;
+    font-weight: bold;
+    color: grey;
+}
+
+header{
+border: 2px solid black;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 10px;
+margin-right: 10px;
+background-color:  rgb(247, 189, 104)    
+}
+
+p{
+    font-family: bold'Roboto', sans-serif;;
+}
